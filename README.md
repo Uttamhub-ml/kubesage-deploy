@@ -1,0 +1,2 @@
+# kubesage-deploy
+Kubernetes manifestfile 
