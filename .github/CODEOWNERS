@@ -1,0 +1,2 @@
+# Any change to a prod overlay needs approval from the owner
+/apps/*/overlays/prod/ @Uttamhub-ml
